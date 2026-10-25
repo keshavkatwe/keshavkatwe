@@ -1,8 +1,8 @@
 # Hi, I’m Keshav Katwe
 
-**Frontend & React Native engineer. Creator of Agenvik and Pushwing.**
+**Frontend & React Native engineer. Creator of Agenvik, Pushwing, and Toolgrain.**
 
-I build web, mobile, and AI products, with a focus on frontend architecture, thoughtful interfaces, and the systems behind them. Based in Dubai, UAE.
+I build web, mobile, and AI products and developer tools, with a focus on frontend architecture, thoughtful interfaces, and the systems behind them. Based in Dubai, UAE.
 
 [Portfolio](https://keshavkatwe.github.io/) · [LinkedIn](https://www.linkedin.com/in/keshavkatwe/)
 
@@ -27,6 +27,16 @@ AI-connected publishing workflows for YouTube and Instagram, with a React dashbo
 - Built with TypeScript, React, Bun, Elysia, and PostgreSQL.
 
 [Visit Pushwing](https://pushwing.com) · [Engineering story](https://keshavkatwe.github.io/work/pushwing/)
+
+### [Toolgrain](https://github.com/keshavkatwe/toolgrain)
+
+A TypeScript toolkit for building MCP servers from typed, reusable tools.
+
+- Define tools once with Zod input and output validation, then compose them into servers.
+- Share request-scoped context across tools and serve over stdio or HTTP.
+- Optional JWT and Clerk authentication, with framework examples and an **MIT license**.
+
+[Source code](https://github.com/keshavkatwe/toolgrain) · [npm package](https://www.npmjs.com/package/@toolgrain/mcp) · [Documentation](https://github.com/keshavkatwe/toolgrain/tree/main/docs) · [Engineering story](https://keshavkatwe.github.io/work/toolgrain/)
 
 ## What I work with
 
